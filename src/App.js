@@ -14,6 +14,7 @@ function App() {
       <Switch>
         <Route exact path = "/" component = {Home}/>
         <Route exact path = "/products" component = {Product}/>
+        <Route exact path = "/products:id" component = {Product}/>
         <Route exact path = "/about" component = {About}/>
         <Route exact path = "/contact" component = {Contact}/>
         <Redirect to = "/" />
