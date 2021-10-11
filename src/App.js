@@ -12,10 +12,10 @@ function App() {
     <>
     <Header/>
       <Switch>
-        <Route to = "/" component = {Home}/>
-        <Route to = "/products" component = {Product}/>
-        <Route to = "/about" component = {About}/>
-        <Route to = "/contact" component = {Contact}/>
+        <Route exact path = "/" component = {Home}/>
+        <Route exact path = "/products" component = {Product}/>
+        <Route exact path = "/about" component = {About}/>
+        <Route exact path = "/contact" component = {Contact}/>
         <Redirect to = "/" />
 
       </Switch>
