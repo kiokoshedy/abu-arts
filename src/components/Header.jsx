@@ -32,7 +32,7 @@ const Header = () => {
                         </ul>
                         
                     </div>
-                    <NavLink className="navbar-brand mx-auto fw-bold" to="#">Abuartsdecor</NavLink>
+                    <NavLink className="navbar-brand mx-auto fw-bold" to="#">ABUARTS DECOR</NavLink>
                 </div>
             </nav>
         </>
