@@ -5,12 +5,12 @@ const Login = () => {
         <>
 
             {/* <!-- Button trigger modal --> */}
-            <button type="button" class="btn btn-outline-primary ms-auto" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <button type="button" class="btn btn-outline-primary ms-auto" data-bs-toggle="modal" data-bs-target="#loginModal">
                 <span className="fa fa-sign-in ms-1"></span> Login
             </button>
 
             {/* <!-- Modal --> */}
-            <div class="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal fade" id="loginModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
