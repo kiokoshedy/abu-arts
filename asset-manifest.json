@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/abu-arts/static/css/main.bfa009ad.chunk.css",
-    "main.js": "/abu-arts/static/js/main.d05b4c69.chunk.js",
-    "main.js.map": "/abu-arts/static/js/main.d05b4c69.chunk.js.map",
+    "main.css": "/abu-arts/static/css/main.2b14fc65.chunk.css",
+    "main.js": "/abu-arts/static/js/main.9f8855cf.chunk.js",
+    "main.js.map": "/abu-arts/static/js/main.9f8855cf.chunk.js.map",
     "runtime-main.js": "/abu-arts/static/js/runtime-main.a7b389c2.js",
     "runtime-main.js.map": "/abu-arts/static/js/runtime-main.a7b389c2.js.map",
     "static/css/2.c412bd03.chunk.css": "/abu-arts/static/css/2.c412bd03.chunk.css",
@@ -12,15 +12,29 @@
     "static/js/3.98fdc809.chunk.js.map": "/abu-arts/static/js/3.98fdc809.chunk.js.map",
     "index.html": "/abu-arts/index.html",
     "static/css/2.c412bd03.chunk.css.map": "/abu-arts/static/css/2.c412bd03.chunk.css.map",
-    "static/css/main.bfa009ad.chunk.css.map": "/abu-arts/static/css/main.bfa009ad.chunk.css.map",
+    "static/css/main.2b14fc65.chunk.css.map": "/abu-arts/static/css/main.2b14fc65.chunk.css.map",
     "static/js/2.3be14205.chunk.js.LICENSE.txt": "/abu-arts/static/js/2.3be14205.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/abu-arts/static/media/fontawesome-webfont.f691f37e.woff"
+    "static/media/contact.b30cae95.png": "/abu-arts/static/media/contact.b30cae95.png",
+    "static/media/font-awesome.min.css": "/abu-arts/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/img.40bd7fe6.jpg": "/abu-arts/static/media/img.40bd7fe6.jpg",
+    "static/media/img0.02f1b04f.jpg": "/abu-arts/static/media/img0.02f1b04f.jpg",
+    "static/media/img1.9cf747f6.jpg": "/abu-arts/static/media/img1.9cf747f6.jpg",
+    "static/media/img10.c413e80c.jpg": "/abu-arts/static/media/img10.c413e80c.jpg",
+    "static/media/img11.f36c138c.jpg": "/abu-arts/static/media/img11.f36c138c.jpg",
+    "static/media/img2.eba70ecc.jpg": "/abu-arts/static/media/img2.eba70ecc.jpg",
+    "static/media/img3.4e19e035.jpg": "/abu-arts/static/media/img3.4e19e035.jpg",
+    "static/media/img4.c05ef30c.jpg": "/abu-arts/static/media/img4.c05ef30c.jpg",
+    "static/media/img5.75493edd.jpg": "/abu-arts/static/media/img5.75493edd.jpg",
+    "static/media/img6.ca5d7cba.jpg": "/abu-arts/static/media/img6.ca5d7cba.jpg",
+    "static/media/img7.2d398555.jpg": "/abu-arts/static/media/img7.2d398555.jpg",
+    "static/media/img8.8ab07e54.jpg": "/abu-arts/static/media/img8.8ab07e54.jpg",
+    "static/media/img9.cf825b59.jpg": "/abu-arts/static/media/img9.cf825b59.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a7b389c2.js",
     "static/css/2.c412bd03.chunk.css",
     "static/js/2.3be14205.chunk.js",
-    "static/css/main.bfa009ad.chunk.css",
-    "static/js/main.d05b4c69.chunk.js"
+    "static/css/main.2b14fc65.chunk.css",
+    "static/js/main.9f8855cf.chunk.js"
   ]
 }
