@@ -64,7 +64,7 @@ const Checkout = () => {
                                     <label htmlFor="email" className="form-label">Email <span className="text-muted">(Optional)</span></label>
                                     <input type="email" className="form-control" id="email" placeholder="you@example.com" />
                                     <div className="invalid-feedback">
-                                        Please enter a valid email address htmlFor shipping updates.
+                                        Please enter a valid email address for shipping updates.
                                     </div>
                                 </div>
 
@@ -81,30 +81,37 @@ const Checkout = () => {
                                     <input type="text" className="form-control" id="address2" placeholder="Apartment or additional address details" />
                                 </div>
 
-                                <div className="col-md-5">
+                                <div className="col-md-3">
                                     <label htmlFor="country" className="form-label">County</label>
                                     <select className="form-select" id="country" required="">
                                         <option value="">Choose...</option>
                                         <option>Nairobi</option>
                                     </select>
                                     <div className="invalid-feedback">
-                                        Please select a valid country.
-                                    </div>
-                                </div>
-
-                                <div className="col-md-4">
-                                    <label htmlFor="state" className="form-label">Constituency</label>
-                                    <input type="text" className="form-control" id="constituency" placeholder="" required="" />
-                                    <div className="invalid-feedback">
-                                        Please provide a valid state.
+                                        Please select a valid County.
                                     </div>
                                 </div>
 
                                 <div className="col-md-3">
-                                    <label htmlFor="zip" className="form-label">Estate</label>
+                                    <label htmlFor="state" className="form-label">Constituency</label>
+                                    <input type="text" className="form-control" id="constituency" placeholder="" required="" />
+                                    <div className="invalid-feedback">
+                                        Please provide a valid Constituency.
+                                    </div>
+                                </div>
+
+                                <div className="col-md-3">
+                                    <label htmlFor="zip" className="form-label">Street</label>
                                     <input type="text" className="form-control" id="estate" placeholder="" required="" />
                                     <div className="invalid-feedback">
-                                        Zip code required.
+                                    Street required.
+                                    </div>
+                                </div>
+                                <div className="col-md-3">
+                                    <label htmlFor="zip" className="form-label"> Estate</label>
+                                    <input type="text" className="form-control" id="estate" placeholder="" required="" />
+                                    <div className="invalid-feedback">
+                                    Estate required.
                                     </div>
                                 </div>
                             </div>

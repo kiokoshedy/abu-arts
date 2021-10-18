@@ -1,5 +1,9 @@
 import React from 'react'
 import Product from './Product'
+import img from '../images/img.jpg';
+import img1 from '../images/img1.jpg';
+import img2 from '../images/img2.jpg';
+import img3 from '../images/img3.jpg';
 
 
 
@@ -16,16 +20,16 @@ const Home = () => {
 
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="/images/img.jpg" class="d-block w-100" alt="Art" height="600px" />
+                        <img src={img} class="d-block w-100" alt="Art" height="600px" />
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/img1.jpg" class="d-block w-100" alt="Art" height="600px" />
+                        <img src={img1} class="d-block w-100" alt="Art" height="600px" />
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/img2.jpg" class="d-block w-100" alt="Art" height="600px" />
+                        <img src={img2} class="d-block w-100" alt="Art" height="600px" />
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/img3.jpg" class="d-block w-100" alt="Art" height="600px" />
+                        <img src={img3} class="d-block w-100" alt="Art" height="600px" />
                     </div>
                 </div>
 

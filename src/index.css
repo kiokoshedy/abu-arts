@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -14,7 +15,7 @@ code {
 
 /* Navigation Bar*/
 .navbar-nav li a{
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .navbar-brand {
@@ -27,7 +28,8 @@ code {
 }
 .card:hover {
   transform: scale(1.1);
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 10px rgba(120, 27, 196, 0.5);
+  
 }
 
 /* Product */
