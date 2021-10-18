@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/abu-arts/static/css/main.bfa009ad.chunk.css",
+    "main.js": "/abu-arts/static/js/main.d05b4c69.chunk.js",
+    "main.js.map": "/abu-arts/static/js/main.d05b4c69.chunk.js.map",
+    "runtime-main.js": "/abu-arts/static/js/runtime-main.a7b389c2.js",
+    "runtime-main.js.map": "/abu-arts/static/js/runtime-main.a7b389c2.js.map",
+    "static/css/2.c412bd03.chunk.css": "/abu-arts/static/css/2.c412bd03.chunk.css",
+    "static/js/2.3be14205.chunk.js": "/abu-arts/static/js/2.3be14205.chunk.js",
+    "static/js/2.3be14205.chunk.js.map": "/abu-arts/static/js/2.3be14205.chunk.js.map",
+    "static/js/3.98fdc809.chunk.js": "/abu-arts/static/js/3.98fdc809.chunk.js",
+    "static/js/3.98fdc809.chunk.js.map": "/abu-arts/static/js/3.98fdc809.chunk.js.map",
+    "index.html": "/abu-arts/index.html",
+    "static/css/2.c412bd03.chunk.css.map": "/abu-arts/static/css/2.c412bd03.chunk.css.map",
+    "static/css/main.bfa009ad.chunk.css.map": "/abu-arts/static/css/main.bfa009ad.chunk.css.map",
+    "static/js/2.3be14205.chunk.js.LICENSE.txt": "/abu-arts/static/js/2.3be14205.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/abu-arts/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7b389c2.js",
+    "static/css/2.c412bd03.chunk.css",
+    "static/js/2.3be14205.chunk.js",
+    "static/css/main.bfa009ad.chunk.css",
+    "static/js/main.d05b4c69.chunk.js"
+  ]
+}
