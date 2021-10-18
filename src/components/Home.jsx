@@ -1,5 +1,7 @@
 import React from 'react'
 import Product from './Product'
+import {GithubIcon, LinkedIn, Twitter } from '@material-ui/icons';
+
 
 const Home = () => {
     return (
@@ -33,6 +35,17 @@ const Home = () => {
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
+                <div className="icons">
+                    <a href="https://twitter.com/KiokoKe_" className="icon i-twitter">
+                        <Twitter />
+                    </a>
+                    <a href="https://github.com/kiokoshedy" className="icon i-github">
+                        <GithubIcon />
+                    </a>
+                    <a href="https://www.linkedin.com/in/shadrack-kioko-b2a712179/" className="icon i-YoutubeIcon">
+                        <LinkedIn />
+                    </a>
+                </div>
             </div>
             <Product/>
         </div>
