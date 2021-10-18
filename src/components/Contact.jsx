@@ -6,7 +6,7 @@ const Contact = () => {
             <div className="container mb-5">
                 <div className="row">
                     <div className="col-12 text-center py-4 my-4">
-                        <h1>Always Call Us For any quearries or customizations.</h1>
+                        <h1>Always call us For any queries and customizations.</h1>
                         <hr />
                     </div>
                     <div className="row">
@@ -25,8 +25,8 @@ const Contact = () => {
                                     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="abuarts@email.com"/>
                                 </div>
                                 <div class="mb-3">
-                                    <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1"placeholder="Message us your comments, or anything you would wish us to do for you ASAP" rows="3"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-outline-primary">Send Message</button>
                             </form>

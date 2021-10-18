@@ -16,7 +16,7 @@ const Cart = () => {
     const cartItems = (cartItem) => {
         return (
             <div className="px-4 my-5 bg-light rounded-3" key={cartItem.id}>
-                <div className="container py-4">
+                <div className="container py- 4">
                     <button onClick={() => handleClose(cartItem)} className="btn-close float-end" aria-label="Close">
 
                     </button>
@@ -27,7 +27,7 @@ const Cart = () => {
                         </div>
                         <div className="col-md-4">
                             <h3>{cartItem.title}</h3>
-                            <p className="lead fw-bold">Kes{cartItem.price}</p>
+                            <p className="lead fw-bold">Kes {cartItem.price}</p>
                         </div>
                     </div>
                 </div>
