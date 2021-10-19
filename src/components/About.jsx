@@ -1,6 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import img from '../images/bottle.png';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const About = () => {
     return (
@@ -15,13 +16,13 @@ const About = () => {
                         </p>
 
                         <div className="icons mx-auto">
-                            <a href="https://twitter.com/KiokoKe_" className="fa fa-facebook me-3">
+                            <a href="https://twitter.com/KiokoKe_" className="bi bi-facebook me-4 fa-lg">
 
                             </a>
-                            <a href="https://github.com/kiokoshedy" className="fa fa-instagram me-3">
+                            <a href="https://github.com/kiokoshedy" className="bi bi-instagram me-4 fa-lg">
 
                             </a>
-                            <a href="https://www.linkedin.com/in/shadrack-kioko-b2a712179/" className="fa fa-twitter me-3">
+                            <a href="https://www.linkedin.com/in/shadrack-kioko-b2a712179/" className="bi bi-twitter me-4 fa-lg">
 
                             </a>
                         </div>
