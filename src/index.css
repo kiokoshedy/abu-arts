@@ -20,6 +20,16 @@ code {
   font-size: 18px;
 }
 
+
+.navbar-nav{
+  
+  position: sticky;
+}
+
+.header-wrapper {
+  display: block;
+}
+
 .navbar-brand {
   letter-spacing: 3px;
 }
@@ -30,7 +40,7 @@ code {
 }
 .card:hover {
   transform: scale(1.1);
-  box-shadow: 5px 5px 10px rgba(120, 27, 196, 0.5);
+  box-shadow: 5px 5px 10px rgba(221, 219, 223, 0.5);
   
 }
 
