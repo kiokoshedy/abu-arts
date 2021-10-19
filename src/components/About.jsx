@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import img from '../images/bottle.png';
 
 const About = () => {
     return (
@@ -30,7 +31,7 @@ const About = () => {
                         <NavLink to="/contact" className="btn btn-outline-primary px-3">Contact Us</NavLink>
                     </div>
                     <div className="col-md-6 d-flex justify-content-center">
-                        <img src="/images/img.jpg" alt="About Us"
+                        <img src= {img} alt="About Us"
                             height="400px" width="300px" />
                     </div>
                 </div>
