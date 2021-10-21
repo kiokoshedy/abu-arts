@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/abu-arts/static/css/main.c341872d.chunk.css",
-    "main.js": "/abu-arts/static/js/main.97f11078.chunk.js",
-    "main.js.map": "/abu-arts/static/js/main.97f11078.chunk.js.map",
-    "runtime-main.js": "/abu-arts/static/js/runtime-main.a98c882d.js",
-    "runtime-main.js.map": "/abu-arts/static/js/runtime-main.a98c882d.js.map",
+    "main.js": "/abu-arts/static/js/main.9c9e9b8f.chunk.js",
+    "main.js.map": "/abu-arts/static/js/main.9c9e9b8f.chunk.js.map",
+    "runtime-main.js": "/abu-arts/static/js/runtime-main.1cfa6481.js",
+    "runtime-main.js.map": "/abu-arts/static/js/runtime-main.1cfa6481.js.map",
     "static/css/2.f3c6ac5e.chunk.css": "/abu-arts/static/css/2.f3c6ac5e.chunk.css",
-    "static/js/2.e1f0b21f.chunk.js": "/abu-arts/static/js/2.e1f0b21f.chunk.js",
-    "static/js/2.e1f0b21f.chunk.js.map": "/abu-arts/static/js/2.e1f0b21f.chunk.js.map",
-    "static/js/3.1dc70d45.chunk.js": "/abu-arts/static/js/3.1dc70d45.chunk.js",
-    "static/js/3.1dc70d45.chunk.js.map": "/abu-arts/static/js/3.1dc70d45.chunk.js.map",
+    "static/js/2.718126a5.chunk.js": "/abu-arts/static/js/2.718126a5.chunk.js",
+    "static/js/2.718126a5.chunk.js.map": "/abu-arts/static/js/2.718126a5.chunk.js.map",
+    "static/js/3.cc926088.chunk.js": "/abu-arts/static/js/3.cc926088.chunk.js",
+    "static/js/3.cc926088.chunk.js.map": "/abu-arts/static/js/3.cc926088.chunk.js.map",
     "index.html": "/abu-arts/index.html",
     "static/css/2.f3c6ac5e.chunk.css.map": "/abu-arts/static/css/2.f3c6ac5e.chunk.css.map",
     "static/css/main.c341872d.chunk.css.map": "/abu-arts/static/css/main.c341872d.chunk.css.map",
-    "static/js/2.e1f0b21f.chunk.js.LICENSE.txt": "/abu-arts/static/js/2.e1f0b21f.chunk.js.LICENSE.txt",
+    "static/js/2.718126a5.chunk.js.LICENSE.txt": "/abu-arts/static/js/2.718126a5.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/abu-arts/static/media/bootstrap-icons.d0ec932c.woff2",
     "static/media/bottle.00bbf056.png": "/abu-arts/static/media/bottle.00bbf056.png",
     "static/media/contact.b30cae95.png": "/abu-arts/static/media/contact.b30cae95.png",
@@ -34,10 +34,10 @@
     "static/media/logo.281c381e.jpg": "/abu-arts/static/media/logo.281c381e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a98c882d.js",
+    "static/js/runtime-main.1cfa6481.js",
     "static/css/2.f3c6ac5e.chunk.css",
-    "static/js/2.e1f0b21f.chunk.js",
+    "static/js/2.718126a5.chunk.js",
     "static/css/main.c341872d.chunk.css",
-    "static/js/main.97f11078.chunk.js"
+    "static/js/main.9c9e9b8f.chunk.js"
   ]
 }
