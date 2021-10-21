@@ -15,6 +15,8 @@ export default function App() {
                     </MDBCol>
 
                     <MDBCol lg='3' md='6' className='mb-4 mb-md-2'>
+
+                        <br/>
                         <div className="icons mx-auto">
                             <a href="https://twitter.com/KiokoKe_" className="bi bi-facebook me-4 fa-lg">
 
