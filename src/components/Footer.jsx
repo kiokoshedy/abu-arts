@@ -7,7 +7,7 @@ export default function App() {
             <MDBContainer className='p-1'>
                 <MDBRow>
                     <MDBCol lg='6' md='12' className='mb-4 mb-md-0'>
-                        <h5 className='text-uppercase'>ABUARTS DECOR</h5>
+                        <h5 className='text'>Abuarts Decor</h5>
 
                         <p>
                         “The Earth without art is just eh.” – Unknown 
