@@ -43,17 +43,17 @@ const Home = () => {
                 </button>
 
             </div>
-            <div className="icons justify">
-                <a href="https://twitter.com/KiokoKe_" className="fa fa-facebook me-4">
+            <div className="icons mx-auto">
+                            <a href="https://twitter.com/KiokoKe_" className="bi bi-facebook me-4 fa-lg">
 
-                </a>
-                <a href="https://github.com/kiokoshedy" className="fa fa-instagram me-4">
+                            </a>
+                            <a href="https://github.com/kiokoshedy" className="bi bi-instagram me-4 fa-lg">
 
-                </a>
-                <a href="https://www.linkedin.com/in/shadrack-kioko-b2a712179/" className="fa fa-twitter me-4">
+                            </a>
+                            <a href="https://www.linkedin.com/in/shadrack-kioko-b2a712179/" className="bi bi-twitter me-4 fa-lg">
 
-                </a>
-            </div>
+                            </a>
+                        </div>
 
             <Product />
         </div>
