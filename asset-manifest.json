@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abu-arts/static/css/main.c341872d.chunk.css",
-    "main.js": "/abu-arts/static/js/main.e2e88d65.chunk.js",
-    "main.js.map": "/abu-arts/static/js/main.e2e88d65.chunk.js.map",
+    "main.js": "/abu-arts/static/js/main.97f11078.chunk.js",
+    "main.js.map": "/abu-arts/static/js/main.97f11078.chunk.js.map",
     "runtime-main.js": "/abu-arts/static/js/runtime-main.a98c882d.js",
     "runtime-main.js.map": "/abu-arts/static/js/runtime-main.a98c882d.js.map",
     "static/css/2.f3c6ac5e.chunk.css": "/abu-arts/static/css/2.f3c6ac5e.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.f3c6ac5e.chunk.css",
     "static/js/2.e1f0b21f.chunk.js",
     "static/css/main.c341872d.chunk.css",
-    "static/js/main.e2e88d65.chunk.js"
+    "static/js/main.97f11078.chunk.js"
   ]
 }
