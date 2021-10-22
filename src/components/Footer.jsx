@@ -3,18 +3,18 @@ import { MDBFooter, MDBContainer, MDBRow, MDBCol } from 'mdb-react-ui-kit';
 
 export default function App() {
     return (
-        <MDBFooter backgroundColor='light' className='text-center text-lg-left' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+        <MDBFooter backgroundColor='light' className='text-center text-lg-left' style={{ backgroundColor: 'rgba(128,0,0,0.4)' }}>
             <MDBContainer className='p-1'>
                 <MDBRow>
                     <MDBCol lg='6' md='12' className='mb-4 mb-md-0'>
                         <h5 className='text'>Abuarts Decor</h5>
 
                         <p>
-                        “The Earth without art is just eh.” – Unknown 
+                        “The Earth without art is just eh.” – Abu.
                         </p>
                     </MDBCol>
 
-                    <MDBCol lg='3' md='6' className='mb-4 mb-md-2'>
+                    <MDBCol lg='6' md='12' className='mb-4 mb-md-2'>
 
                         <br/>
                         <div className="icons mx-auto">
@@ -32,7 +32,7 @@ export default function App() {
                 </MDBRow>
             </MDBContainer>
 
-            <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+            <div className='text-center p-3' style={{ backgroundColor: 'rgba(128,0,0,0.0)' }}>
                 &copy; {new Date().getFullYear()}{' '}
                 <a className='text-dark' href='https://abuartsdecor.com/'>
                     abuartsdecor.com
