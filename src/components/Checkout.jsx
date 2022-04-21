@@ -138,6 +138,7 @@ const Checkout = () => {
                                 <div className="form-check">
                                     <input id="debit" name="paymentMethod" type="radio" className="form-check-input" required="" />
                                     <label className="form-check-label" htmlFor="debit">Mpesa</label>
+                                    <img src={mpesaLogo} class="d-block w-20" alt="Art" height="20px" />
                                 </div>
                                 
                             </div>
