@@ -159,14 +159,15 @@ const Checkout = () => {
                                 </div>
 
                                 <div class="col-md-6">
-                                    <label for="cc-number" class="form-label">Mpesa number</label>
-                                    <input type="text" class="form-control" id="cc-number" placeholder="" required=""/>
+                                    <label for="cc-name" class="form-label">Mpesa number</label>
+                                    <input type="text" class="form-control" id="cc-name" placeholder="" required=""/>
                                         <small class="text-muted">Mobile number to make payment.</small>
                                         <div class="invalid-feedback">
-                                        Mpesa Number is required
+                                        Mpesa Number is required!
                                         </div>
                                 </div>
 
+                              
                             </div>
 
                             <hr className="my-4" />
